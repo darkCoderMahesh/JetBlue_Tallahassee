@@ -119,6 +119,9 @@ video {
 #h2{
   top: 350px;
 }
+#h2 span{
+  color: #00E1FF;
+}
 #h2 .asterisk{
   font-size: 11px;
   line-height: 10px;
