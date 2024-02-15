@@ -263,14 +263,15 @@ video {
   font-family: "ESKlarheitGrotesk Smbd";
   font-size: 7px;
   letter-spacing: -0.02em;
-  line-height: 9px;
-  text-align: center;
-  width: 160px;
+  line-height: 11px;
+  text-align: left;
 }
 
 
 #terms1 {
-  top: 572px;
+  left: 11px;
+  top: 567px;
+  width: 300px;
 }
 
 #terms2 {
