@@ -312,8 +312,9 @@ video {
 
 .sm{
   font-size: 12px;
-  line-height: 1.08333;
+  line-height: 1.2;
   letter-spacing: .2px;
+  display: block;
 }
 
 

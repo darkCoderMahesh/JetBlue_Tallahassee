@@ -321,3 +321,8 @@ video {
   height: 250px;
 }
 
+.full-width{
+  top: 0px;
+  width: 300px;
+  height: 250px;
+}

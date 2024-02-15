@@ -87,9 +87,9 @@ video {
 #text_holder {
   color: #FFFFFF;
   font-family: "ESKlarheitGrotesk Xbd";
-  font-size: 24px;
+  font-size: 21px;
   letter-spacing: -0.414px;
-  line-height: 28px;
+  line-height: 26px;
 }
 
 #blueBottomCard {
@@ -113,10 +113,12 @@ video {
   width: 200px;
   height: 74px;
   left: 13px;
-  top: 80px;
+  top: 20.64px;
 /*  text-shadow: 0px 3px 6px rgba(0, 0, 0, 0.26);*/
 }
-
+#h2{
+  color: #0000AA;
+}
 #h2 .asterisk{
   font-size: 11px;
   line-height: 10px;
@@ -161,7 +163,9 @@ video {
 
 #termsCopyright {
   top: 567px;
-  left: 11px;
+  left: 0px;
+  text-align: center;
+  width: 160px;
 }
 
 /* Horizontal Logo */
