@@ -161,6 +161,7 @@ video {
   /* top: 226px; */
   width: 180px;
   top: 225px;
+  font-size: 6px;
 }
 
 #termsCopyright {

@@ -157,7 +157,9 @@ video {
 }
 
 #terms1 {
-  top: 553px;
+  top: 555px;
+  font-size: 6px;
+  line-height: 7px;
 }
 
 #terms2 {
