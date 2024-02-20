@@ -154,14 +154,13 @@ video {
 }
 
 .terms .asterisk {
-  font-size: 8px;
+  font-size: 6px;
 }
 
 #terms1 {
-  /* top: 226px; */
   width: 180px;
   top: 225px;
-  font-size: 6px;
+  font-size: 5.25px;
 }
 
 #termsCopyright {
