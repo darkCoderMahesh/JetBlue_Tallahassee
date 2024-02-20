@@ -114,8 +114,8 @@ video {
   top: 11px; 
 }
 #h2{
-  color: #0000AA;
-  text-shadow: 0px 0px 17px #fff;
+  color: #fff;
+  /* text-shadow: 0px 0px 17px #fff; */
 }
 
 #h2 .asterisk{
