@@ -119,6 +119,9 @@ video {
   top: 292px;
 /*  text-shadow: 0px 3px 6px rgba(0, 0, 0, 0.26);    */
 }
+#h1{
+  font-size: 15px;
+}
 #h2{
   top: 325px;
 }
@@ -215,12 +218,13 @@ video {
 }
 
 .terms .asterisk {
-  font-size: 6px;
+  font-size: 8px;
 }
 
 #terms1 {
   top: 568px;
-  font-size: 5.25px;
+  font-size: 6px;
+  font-size: 6px;
 }
 
 #terms2 {

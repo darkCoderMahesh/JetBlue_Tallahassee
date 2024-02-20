@@ -114,6 +114,9 @@ video {
   top: 53px;
 /*  text-shadow: 0px 0px 1.5px #000;  */
 }
+#h1 span{
+  font-size: 15px;
+}
 #h2{
   top: 28px;
   line-height: 23px;
@@ -151,14 +154,14 @@ video {
 }
 
 .terms .asterisk {
-  font-size: 6px;
+  font-size: 7px;
 }
 
 #terms1 {
   left: 11px;
   top: -10px;
   width: 275px;
-  font-size: 5.25px;
+  font-size: 6px;
 }
 
 #terms2 {
